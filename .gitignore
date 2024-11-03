@@ -1,3 +1,5 @@
 # SERVER
 # dependencies
-server/node_modules
+.next
+node_modules
+package-lock.json
